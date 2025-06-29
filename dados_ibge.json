@@ -1,0 +1,1055 @@
+[
+    {
+        "estado": "Acre",
+        "População": {
+            "População no último censo": "830.018 pessoas",
+            "Densidade demográfica": "5,06 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "350.273 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,7",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,7",
+            "Matrículas no ensino fundamental": "147.350 matrículas",
+            "Matrículas no ensino médio": "40.216 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.271 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "322 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "39,4 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "45,5 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.565 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "39.443 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "11.137.410.342,21 R$",
+            "Total de despesas brutas empenhadas": "10.302.403.420,85 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "22 municípios",
+            "Área da unidade territorial": "164.082,960 km²",
+            "Área urbanizada": "216,14 km²"
+        }
+    },
+    {
+        "estado": "Alagoas",
+        "População": {
+            "População no último censo": "3.127.683 pessoas",
+            "Densidade demográfica": "112,38 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "1.095.144 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,7",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,8",
+            "Matrículas no ensino fundamental": "439.014 matrículas",
+            "Matrículas no ensino médio": "120.878 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.331 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "1.134 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "52,2 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "48,2 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.219 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "157.356 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "20.927.817.222,51 R$",
+            "Total de despesas brutas empenhadas": "17.963.587.096,92 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "102 municípios",
+            "Área da unidade territorial": "27.830,661 km²",
+            "Área urbanizada": "588,41 km²"
+        }
+    },
+    {
+        "estado": "Amapá",
+        "População": {
+            "População no último censo": "733.759 pessoas",
+            "Densidade demográfica": "5,15 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "242.574 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "4,8",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,1",
+            "Matrículas no ensino fundamental": "131.948 matrículas",
+            "Matrículas no ensino médio": "32.435 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.514 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "295 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "49,1 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "42,0 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.998 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "53.597 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "11.249.572.238,02 R$",
+            "Total de despesas brutas empenhadas": "8.505.172.844,49 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "16 municípios",
+            "Área da unidade territorial": "142.253,880 km²",
+            "Área urbanizada": "151,22 km²"
+        }
+    },
+    {
+        "estado": "Amazonas",
+        "População": {
+            "População no último censo": "3.941.613 pessoas",
+            "Densidade demográfica": "2,53 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "1.130.055 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,6",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,7",
+            "Matrículas no ensino fundamental": "692.623 matrículas",
+            "Matrículas no ensino médio": "189.771 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.238 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "1.602 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "41,4 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "37,9 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.526 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "146.959 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "33.030.751.885,07 R$",
+            "Total de despesas brutas empenhadas": "30.029.370.828,75 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "62 municípios",
+            "Área da unidade territorial": "1.558.706,127 km²",
+            "Área urbanizada": "669,46 km²"
+        }
+    },
+    {
+        "estado": "Bahia",
+        "População": {
+            "População no último censo": "14.141.626 pessoas",
+            "Densidade demográfica": "25,04 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "5.120.353 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "4,9",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "3,9",
+            "Matrículas no ensino fundamental": "1.865.574 matrículas",
+            "Matrículas no ensino médio": "517.073 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.366 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "6.638 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "40,1 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "43,9 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.177 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "557.886 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "80.290.524.858,16 R$",
+            "Total de despesas brutas empenhadas": "77.868.037.416,52 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "417 municípios",
+            "Área da unidade territorial": "564.760,429 km²",
+            "Área urbanizada": "2.814,29 km²"
+        }
+    },
+    {
+        "estado": "Ceará",
+        "População": {
+            "População no último censo": "8.794.957 pessoas",
+            "Densidade demográfica": "59,07 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "3.753.826 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "6,5",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "5,4",
+            "Matrículas no ensino fundamental": "1.134.636 matrículas",
+            "Matrículas no ensino médio": "358.735 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.225 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "3.630 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "40,1 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "44,3 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.407 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "337.403 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "46.124.793.433,02 R$",
+            "Total de despesas brutas empenhadas": "37.423.640.356,93 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "184 municípios",
+            "Área da unidade territorial": "148.894,444 km²",
+            "Área urbanizada": "1.594,42 km²"
+        }
+    },
+    {
+        "estado": "Distrito Federal",
+        "População": {
+            "População no último censo": "2.817.381 pessoas",
+            "Densidade demográfica": "489,06 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "2.083.081 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,9",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,6",
+            "Matrículas no ensino fundamental": "361.438 matrículas",
+            "Matrículas no ensino médio": "111.437 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "3.444 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "1.410 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "72,5 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "69,2 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "4.889 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "256.782 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "36.479.338.564,35 R$",
+            "Total de despesas brutas empenhadas": "33.897.143.557,68 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "1 municípios",
+            "Área da unidade territorial": "5.760,783 km²",
+            "Área urbanizada": "590,22 km²"
+        }
+    },
+    {
+        "estado": "Espírito Santo",
+        "População": {
+            "População no último censo": "3.833.712 pessoas",
+            "Densidade demográfica": "83,21 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "2.357.061 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "6,1",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "5,0",
+            "Matrículas no ensino fundamental": "498.357 matrículas",
+            "Matrículas no ensino médio": "126.068 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "2.111 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "1.824 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "61,8 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "59,2 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.460 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "146.129 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "34.291.544.903,51 R$",
+            "Total de despesas brutas empenhadas": "25.098.719.258,87 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "78 municípios",
+            "Área da unidade territorial": "46.074,448 km²",
+            "Área urbanizada": "730,73 km²"
+        }
+    },
+    {
+        "estado": "Goiás",
+        "População": {
+            "População no último censo": "7.056.495 pessoas",
+            "Densidade demográfica": "20,74 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "4.726.950 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "6,1",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "5,4",
+            "Matrículas no ensino fundamental": "868.222 matrículas",
+            "Matrículas no ensino médio": "224.130 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "2.098 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "3.238 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "58,3 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "57,7 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.581 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "213.347 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "57.825.598.739,32 R$",
+            "Total de despesas brutas empenhadas": "39.420.594.475,73 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "246 municípios",
+            "Área da unidade territorial": "340.242,860 km²",
+            "Área urbanizada": "2.005,27 km²"
+        }
+    },
+    {
+        "estado": "Maranhão",
+        "População": {
+            "População no último censo": "6.776.699 pessoas",
+            "Densidade demográfica": "20,56 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "2.132.527 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,1",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,3",
+            "Matrículas no ensino fundamental": "1.045.700 matrículas",
+            "Matrículas no ensino médio": "283.486 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.077 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "2.893 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "26,8 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "35,7 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.250 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "304.171 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "31.379.701.580,17 R$",
+            "Total de despesas brutas empenhadas": "24.496.014.978,83 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "217 municípios",
+            "Área da unidade territorial": "329.651,478 km²",
+            "Área urbanizada": "1.544,71 km²"
+        }
+    },
+    {
+        "estado": "Mato Grosso",
+        "População": {
+            "População no último censo": "3.658.649 pessoas",
+            "Densidade demográfica": "4,05 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "2.695.548 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,8",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,8",
+            "Matrículas no ensino fundamental": "507.089 matrículas",
+            "Matrículas no ensino médio": "137.021 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "2.276 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "1.577 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "58,5 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "59,7 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.774 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "133.369 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "54.372.352.372,25 R$",
+            "Total de despesas brutas empenhadas": "37.014.020.738,27 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "141 municípios",
+            "Área da unidade territorial": "903.208,362 km²",
+            "Área urbanizada": "1.244,20 km²"
+        }
+    },
+    {
+        "estado": "Mato Grosso do Sul",
+        "População": {
+            "População no último censo": "2.757.013 pessoas",
+            "Densidade demográfica": "7,72 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "1.893.634 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,3",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,6",
+            "Matrículas no ensino fundamental": "393.616 matrículas",
+            "Matrículas no ensino médio": "103.814 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "2.169 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "1.336 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "60,5 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "61,5 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.949 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "120.035 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "33.155.489.102,00 R$",
+            "Total de despesas brutas empenhadas": "24.358.822.183,06 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "79 municípios",
+            "Área da unidade territorial": "357.142,010 km²",
+            "Área urbanizada": "841,85 km²"
+        }
+    },
+    {
+        "estado": "Minas Gerais",
+        "População": {
+            "População no último censo": "20.539.989 pessoas",
+            "Densidade demográfica": "35,02 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "13.481.706 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "6,1",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,7",
+            "Matrículas no ensino fundamental": "2.343.279 matrículas",
+            "Matrículas no ensino médio": "716.517 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "2.001 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "10.309 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "58,9 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "61,9 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.489 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "794.060 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "138.168.422.501,96 R$",
+            "Total de despesas brutas empenhadas": "110.408.991.645,56 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "853 municípios",
+            "Área da unidade territorial": "586.513,984 km²",
+            "Área urbanizada": "4.699,69 km²"
+        }
+    },
+    {
+        "estado": "Pará",
+        "População": {
+            "População no último censo": "8.120.131 pessoas",
+            "Densidade demográfica": "6,52 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "2.627.090 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "4,8",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,2",
+            "Matrículas no ensino fundamental": "1.331.723 matrículas",
+            "Matrículas no ensino médio": "324.258 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.344 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "3.515 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "32,5 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "37,7 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.596 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "352.909 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "52.747.856.526,44 R$",
+            "Total de despesas brutas empenhadas": "43.981.234.831,53 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "144 municípios",
+            "Área da unidade territorial": "1.245.828,829 km²",
+            "Área urbanizada": "1.745,77 km²"
+        }
+    },
+    {
+        "estado": "Paraíba",
+        "População": {
+            "População no último censo": "3.974.687 pessoas",
+            "Densidade demográfica": "70,39 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "1.593.744 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,3",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,2",
+            "Matrículas no ensino fundamental": "523.996 matrículas",
+            "Matrículas no ensino médio": "140.067 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.401 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "1.744 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "39,3 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "45,5 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.587 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "225.409 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "23.462.797.714,09 R$",
+            "Total de despesas brutas empenhadas": "17.883.420.827,99 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "223 municípios",
+            "Área da unidade territorial": "56.467,242 km²",
+            "Área urbanizada": "680,32 km²"
+        }
+    },
+    {
+        "estado": "Paraná",
+        "População": {
+            "População no último censo": "11.444.380 pessoas",
+            "Densidade demográfica": "57,42 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "8.838.800 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "6,5",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "5,4",
+            "Matrículas no ensino fundamental": "1.365.869 matrículas",
+            "Matrículas no ensino médio": "403.394 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "2.482 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "5.519 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "68,7 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "71,4 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.886 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "368.576 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "92.067.885.773,50 R$",
+            "Total de despesas brutas empenhadas": "67.607.620.659,63 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "399 municípios",
+            "Área da unidade territorial": "199.298,981 km²",
+            "Área urbanizada": "3.349,03 km²"
+        }
+    },
+    {
+        "estado": "Pernambuco",
+        "População": {
+            "População no último censo": "9.058.931 pessoas",
+            "Densidade demográfica": "92,37 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "3.568.386 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,3",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,7",
+            "Matrículas no ensino fundamental": "1.229.419 matrículas",
+            "Matrículas no ensino médio": "338.436 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.453 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "3.726 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "45,3 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "46,6 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.667 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "297.309 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "53.294.049.711,50 R$",
+            "Total de despesas brutas empenhadas": "48.872.197.159,80 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "185 municípios",
+            "Área da unidade territorial": "98.067,879 km²",
+            "Área urbanizada": "1.415,19 km²"
+        }
+    },
+    {
+        "estado": "Piauí",
+        "População": {
+            "População no último censo": "3.271.199 pessoas",
+            "Densidade demográfica": "12,99 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "1.449.658 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,7",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,9",
+            "Matrículas no ensino fundamental": "439.111 matrículas",
+            "Matrículas no ensino médio": "128.628 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.350 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "1.561 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "31,4 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "36,7 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.316 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "119.545 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "22.928.941.802,89 R$",
+            "Total de despesas brutas empenhadas": "20.000.924.386,53 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "224 municípios",
+            "Área da unidade territorial": "251.755,499 km²",
+            "Área urbanizada": "900,03 km²"
+        }
+    },
+    {
+        "estado": "Rio de Janeiro",
+        "População": {
+            "População no último censo": "16.055.174 pessoas",
+            "Densidade demográfica": "366,97 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "7.705.012 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,5",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,5",
+            "Matrículas no ensino fundamental": "1.945.098 matrículas",
+            "Matrículas no ensino médio": "554.816 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "2.490 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "7.398 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "67,1 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "63,7 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "3.495 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "661.166 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "121.957.245.523,51 R$",
+            "Total de despesas brutas empenhadas": "102.289.960.365,40 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "92 municípios",
+            "Área da unidade territorial": "43.750,425 km²",
+            "Área urbanizada": "2.824,91 km²"
+        }
+    },
+    {
+        "estado": "Rio Grande do Norte",
+        "População": {
+            "População no último censo": "3.302.729 pessoas",
+            "Densidade demográfica": "62,54 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "1.554.064 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "4,8",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "3,7",
+            "Matrículas no ensino fundamental": "437.133 matrículas",
+            "Matrículas no ensino médio": "127.507 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.616 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "1.418 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "49,5 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "52,5 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.875 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "186.840 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "22.703.397.803,27 R$",
+            "Total de despesas brutas empenhadas": "19.486.967.053,93 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "167 municípios",
+            "Área da unidade territorial": "52.809,599 km²",
+            "Área urbanizada": "815,53 km²"
+        }
+    },
+    {
+        "estado": "Rio Grande do Sul",
+        "População": {
+            "População no último censo": "10.882.965 pessoas",
+            "Densidade demográfica": "38,63 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "8.075.318 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,8",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,7",
+            "Matrículas no ensino fundamental": "1.255.794 matrículas",
+            "Matrículas no ensino médio": "349.367 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "2.608 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "5.842 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "67,6 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "71,5 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.938 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "363.861 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "88.012.101.405,33 R$",
+            "Total de despesas brutas empenhadas": "78.352.533.473,39 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "497 municípios",
+            "Área da unidade territorial": "281.707,151 km²",
+            "Área urbanizada": "3.601,63 km²"
+        }
+    },
+    {
+        "estado": "Rondônia",
+        "População": {
+            "População no último censo": "1.581.196 pessoas",
+            "Densidade demográfica": "6,65 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "1.197.221 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,5",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,7",
+            "Matrículas no ensino fundamental": "227.246 matrículas",
+            "Matrículas no ensino médio": "71.396 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.717 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "803 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "55,7 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "56,2 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.317 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "115.212 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "17.855.762.489,37 R$",
+            "Total de despesas brutas empenhadas": "13.605.769.496,55 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "52 municípios",
+            "Área da unidade territorial": "237.754,171 km²",
+            "Área urbanizada": "532,23 km²"
+        }
+    },
+    {
+        "estado": "Roraima",
+        "População": {
+            "População no último censo": "636.707 pessoas",
+            "Densidade demográfica": "2,85 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "275.703 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,4",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,2",
+            "Matrículas no ensino fundamental": "111.096 matrículas",
+            "Matrículas no ensino médio": "27.821 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.538 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "223 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "51,1 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "46,8 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "3.115 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "53.547 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "8.846.153.006,77 R$",
+            "Total de despesas brutas empenhadas": "7.473.220.866,93 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "15 municípios",
+            "Área da unidade territorial": "223.505,385 km²",
+            "Área urbanizada": "229,30 km²"
+        }
+    },
+    {
+        "estado": "Santa Catarina",
+        "População": {
+            "População no último censo": "7.610.361 pessoas",
+            "Densidade demográfica": "79,50 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "6.189.405 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "6,2",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,9",
+            "Matrículas no ensino fundamental": "941.272 matrículas",
+            "Matrículas no ensino médio": "267.040 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "2.601 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "3.508 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "75,6 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "78,2 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.803 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "245.358 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "61.440.241.790,39 R$",
+            "Total de despesas brutas empenhadas": "43.927.295.658,78 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "295 municípios",
+            "Área da unidade territorial": "95.730,690 km²",
+            "Área urbanizada": "2.530,00 km²"
+        }
+    },
+    {
+        "estado": "São Paulo",
+        "População": {
+            "População no último censo": "44.411.238 pessoas",
+            "Densidade demográfica": "178,92 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "33.264.096 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "6,2",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "5,1",
+            "Matrículas no ensino fundamental": "5.343.271 matrículas",
+            "Matrículas no ensino médio": "1.832.726 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "2.662 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "21.268 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "72,4 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "69,3 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "3.371 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "1.357.651 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "343.634.435.413,40 R$",
+            "Total de despesas brutas empenhadas": "328.315.580.393,50 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "645 municípios",
+            "Área da unidade territorial": "248.219,485 km²",
+            "Área urbanizada": "8.614,62 km²"
+        }
+    },
+    {
+        "estado": "Sergipe",
+        "População": {
+            "População no último censo": "2.210.004 pessoas",
+            "Densidade demográfica": "100,74 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "951.523 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "4,9",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,0",
+            "Matrículas no ensino fundamental": "305.930 matrículas",
+            "Matrículas no ensino médio": "83.603 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.473 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "1.000 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "41,7 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "45,9 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.548 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "79.299 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "17.151.927.623,32 R$",
+            "Total de despesas brutas empenhadas": "13.470.989.190,76 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "75 municípios",
+            "Área da unidade territorial": "21.938,188 km²",
+            "Área urbanizada": "461,84 km²"
+        }
+    },
+    {
+        "estado": "Tocantins",
+        "População": {
+            "População no último censo": "1.511.460 pessoas",
+            "Densidade demográfica": "5,45 habitante por quilômetro quadrado",
+            "População estimada": "Não encontrado",
+            "Total de veículos": "874.905 veículos"
+        },
+        "Educação": {
+            "IDEB – Anos iniciais do ensino fundamental (Rede pública)": "5,4",
+            "IDEB – Anos finais do ensino fundamental (Rede pública)": "4,8",
+            "Matrículas no ensino fundamental": "222.404 matrículas",
+            "Matrículas no ensino médio": "66.103 matrículas",
+            "Docentes no ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino fundamental": "Não encontrado",
+            "Número de estabelecimentos de ensino médio": "Não encontrado"
+        },
+        "Trabalho e rendimento": {
+            "Rendimento nominal mensal domiciliar per capita": "1.737 R$",
+            "Pessoas de 16 anos ou mais ocupadas na semana de referência": "663 pessoas (×1000)",
+            "Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência": "42,7 %",
+            "Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "47,5 %",
+            "Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais": "2.706 R$",
+            "Pessoal ocupado na Administração pública, defesa e seguridade social": "84.830 pessoas"
+        },
+        "Economia": {
+            "Índice de Desenvolvimento Humano Municipal (IDHM)": "Não encontrado",
+            "Total de receitas brutas realizadas": "20.836.869.522,78 R$",
+            "Total de despesas brutas empenhadas": "15.873.514.926,43 R$",
+            "Número de agências": "Não encontrado",
+            "Depósitos a prazo": "Não encontrado",
+            "Depósitos à vista": "Não encontrado"
+        },
+        "Território": {
+            "Número de municípios": "139 municípios",
+            "Área da unidade territorial": "277.423,627 km²",
+            "Área urbanizada": "553,49 km²"
+        }
+    }
+]
